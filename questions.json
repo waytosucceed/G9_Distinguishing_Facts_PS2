@@ -1,0 +1,43 @@
+{
+  "heading": "G9NL_Distinguishing Facts from Opinions(Writing)",
+  "topics": [
+    {
+      "heading": "Distinguishing Facts from Opinions(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Impecunious”, which means - Lacking money; poor or penniless.",
+          "text_area": "",
+          "answer": ["The impecunious poet wandered the streets, clutching his manuscript as though it were worth more than gold."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Indefatigable”, which means - Incapable of being tired out; untiring, persistently energetic.",
+          "text_area": "",
+          "answer": ["Her indefatigable pursuit of justice carried her through endless trials, undaunted by fatigue or failure."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Sublimity”, which means - The state of being sublime; grandeur, excellence, or elevated beauty that inspires awe.",
+          "text_area": "",
+          "answer": ["The sublimity of the cathedral’s vaulted ceiling left the visitors hushed in reverence."]
+        },
+        
+
+
+        {
+          "questionNo": 4,
+          "type": "long",
+          "question": "<b>What were your first impressions when you heard/learnt or read about the fact that humans have been to the moon?</b><br>Write about it and after writing, point out (list) two sentences, a fact and an opinion that you have used.<br>Word 150-200", 
+                   "text_area": "",
+          "answer": [""]
+        }
+
+
+      ]
+    }
+  ]
+}
